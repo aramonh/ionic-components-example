@@ -1,0 +1,84 @@
+ [
+ {
+    "icon": "american-football",
+    "name": "Action sheet",
+    "redirectTo": "/action-sheet"
+  },
+  {
+    "icon": "construct-outline",
+    "name": "alert",
+    "redirectTo": "/alert"
+  },
+  {
+    "icon": "avatar",
+    "name": "avatar",
+    "redirectTo": "/avatar"
+  },
+  {
+    "icon": "botones",
+    "name": "botones",
+    "redirectTo": "/botones"
+  },
+  {
+    "icon": "card",
+    "name": "cards",
+    "redirectTo": "/card"
+  },
+  {
+    "icon": "checkmark-circle-outline",
+    "name": "checkboxs",
+    "redirectTo": "/check"
+  },
+  {
+    "icon": "calendar",
+    "name": "dateTime",
+    "redirectTo": "/date-time"
+  },
+  {
+    "icon": "car",
+    "name": "Fabs",
+    "redirectTo": "/fab"
+  },
+
+  {
+    "icon": "grid",
+    "name": "Grid",
+    "redirectTo": "/grid"
+  },
+  {
+    "icon": "scroll",
+    "name": "infiniteScroll",
+    "redirectTo": "/infinite-scroll"
+  },
+  {
+    "icon": "input",
+    "name": "input and Forms",
+    "redirectTo": "/input"
+  },
+  {
+    "icon": "list",
+    "name": "Listas",
+    "redirectTo": "/list"
+  },
+  {
+    "icon": "list",
+    "name": "Listas Reorder",
+    "redirectTo": "/list-reorder"
+  },
+  {
+    "icon": "refresh-circle",
+    "name": "Loading",
+    "redirectTo": "/loading"
+  },
+  {
+    "icon": "phame-portrait",
+    "name": "Modal",
+    "redirectTo": "/modal"
+  },
+  {
+    "icon": "tablet-portrait",
+    "name": "Popover",
+    "redirectTo": "/popover"
+  }
+
+]
