@@ -79,6 +79,38 @@
     "icon": "tablet-portrait",
     "name": "Popover",
     "redirectTo": "/popover"
+  },
+  {
+    "icon": "code-working",
+    "name": "ProgressBar",
+    "redirectTo": "/progress-bar"
+  },
+  {
+    "icon": "arrow-round-down",
+    "name": "Refresher",
+    "redirectTo": "/refresher"
+  },
+  {
+    "icon": "search",
+    "name": "SearchBar",
+    "redirectTo": "/search-bar"
+  },
+  {
+    "icon": "segment",
+    "name": "Segment",
+    "redirectTo": "/segment"
+  },
+  {
+    "icon": "slides",
+    "name": "Slides",
+    "redirectTo": "/slides"
+  },
+  {
+    "icon": "tabs",
+    "name": "Tabs",
+    "redirectTo": "/tabs"
   }
+
+
 
 ]
